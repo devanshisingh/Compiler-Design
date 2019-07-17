@@ -85,12 +85,12 @@
 11. break -
 	
 	//loop or switch case   
-	break;
+	tod;
 
 12. continue -
 	
 	//loop statements  
-	continue;  
+	jaaree;  
 	//some lines of the code which is to be skipped
 
 13. Input - 
